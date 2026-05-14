@@ -1,0 +1,9 @@
+{
+  "startDate": "2026-05-13",
+  "crewName": "713-J",
+  "stops": [
+    { "name": "Urraca Turnaround", "lat": 36.4208, "lon": -104.9582, "elevation": 6944, "type": "waypoint", "day": 1 },
+    { "name": "Crater Lake", "lat": 36.4055, "lon": -105.0489, "elevation": 8398, "type": "waypoint", "day": 2 },
+    { "name": "Beaubien", "lat": 36.4236, "lon": -105.1033, "elevation": 9330, "type": "waypoint", "day": 2 }
+  ]
+}

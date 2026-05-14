@@ -1,0 +1,7 @@
+{
+  "startDate": "2026-06-01",
+  "crewName": "AT Thru-Hikers 2026",
+  "stops": [
+    { "name": "Springer Mountain", "lat": 34.6267, "lon": -84.1906, "elevation": 3782, "type": "waypoint", "day": 1 }
+  ]
+}
