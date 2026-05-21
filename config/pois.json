@@ -1,5 +1,1145 @@
 {
   "points": [
-    { "name": "Urraca", "type": "camp", "lat": 36.4090, "lon": -104.9904, "elevation": 7968 }
+    {
+      "name": "Abreu",
+      "type": "staff_camp",
+      "lat": 36.37911232,
+      "lon": -105.0157647,
+      "elevation": 7217
+    },
+    {
+      "name": "Apache Springs",
+      "type": "staff_camp",
+      "lat": 36.38748279,
+      "lon": -105.1441495,
+      "elevation": 9409
+    },
+    {
+      "name": "Baldy Town",
+      "type": "staff_camp",
+      "lat": 36.62648968,
+      "lon": -105.1913221,
+      "elevation": 9851
+    },
+    {
+      "name": "Beaubien",
+      "type": "staff_camp",
+      "lat": 36.42362246,
+      "lon": -105.1033208,
+      "elevation": 9330
+    },
+    {
+      "name": "Black Mountain",
+      "type": "staff_camp",
+      "lat": 36.44259883,
+      "lon": -105.0933483,
+      "elevation": 8991
+    },
+    {
+      "name": "Carson Meadows",
+      "type": "staff_camp",
+      "lat": 36.36853592,
+      "lon": -105.0239559,
+      "elevation": 7758
+    },
+    {
+      "name": "Chase Ranch",
+      "type": "staff_camp",
+      "lat": 36.55396697,
+      "lon": -104.9243405,
+      "elevation": 6552
+    },
+    {
+      "name": "Cimarroncito",
+      "type": "staff_camp",
+      "lat": 36.49874622,
+      "lon": -105.0654446,
+      "elevation": 8137
+    },
+    {
+      "name": "Clarks Fork",
+      "type": "staff_camp",
+      "lat": 36.46913954,
+      "lon": -105.0480072,
+      "elevation": 7515
+    },
+    {
+      "name": "Clear Creek",
+      "type": "staff_camp",
+      "lat": 36.47212595,
+      "lon": -105.1844344,
+      "elevation": 10240
+    },
+    {
+      "name": "Crater Lake",
+      "type": "staff_camp",
+      "lat": 36.40557239,
+      "lon": -105.0489718,
+      "elevation": 8398
+    },
+    {
+      "name": "Crooked Creek",
+      "type": "staff_camp",
+      "lat": 36.42471221,
+      "lon": -105.1473195,
+      "elevation": 9360
+    },
+    {
+      "name": "Cyphers Mine",
+      "type": "staff_camp",
+      "lat": 36.48420188,
+      "lon": -105.1164631,
+      "elevation": 9302
+    },
+    {
+      "name": "Dan Beard",
+      "type": "staff_camp",
+      "lat": 36.67852723,
+      "lon": -105.0889095,
+      "elevation": 7896
+    },
+    {
+      "name": "Dean Cow",
+      "type": "staff_camp",
+      "lat": 36.56635969,
+      "lon": -104.9988601,
+      "elevation": 7232
+    },
+    {
+      "name": "Fish Camp",
+      "type": "staff_camp",
+      "lat": 36.38776901,
+      "lon": -105.102727,
+      "elevation": 8564
+    },
+    {
+      "name": "French Henry",
+      "type": "staff_camp",
+      "lat": 36.63608275,
+      "lon": -105.1848916,
+      "elevation": 9635
+    },
+    {
+      "name": "Harlan",
+      "type": "staff_camp",
+      "lat": 36.51600887,
+      "lon": -105.0178474,
+      "elevation": 7550
+    },
+    {
+      "name": "Head of Dean",
+      "type": "staff_camp",
+      "lat": 36.61022061,
+      "lon": -105.1200069,
+      "elevation": 8754
+    },
+    {
+      "name": "Hunting Lodge",
+      "type": "staff_camp",
+      "lat": 36.48585569,
+      "lon": -105.063212,
+      "elevation": 7776
+    },
+    {
+      "name": "Indian Writings",
+      "type": "staff_camp",
+      "lat": 36.62378543,
+      "lon": -104.9952915,
+      "elevation": 6979
+    },
+    {
+      "name": "Metcalf Station",
+      "type": "staff_camp",
+      "lat": 36.66124882,
+      "lon": -105.0264632,
+      "elevation": 7220
+    },
+    {
+      "name": "Miners Park",
+      "type": "staff_camp",
+      "lat": 36.42381309,
+      "lon": -105.0418326,
+      "elevation": 7977
+    },
+    {
+      "name": "Miranda",
+      "type": "staff_camp",
+      "lat": 36.60943648,
+      "lon": -105.1714654,
+      "elevation": 8898
+    },
+    {
+      "name": "Phillips Junction",
+      "type": "staff_camp",
+      "lat": 36.41558488,
+      "lon": -105.1183571,
+      "elevation": 8921
+    },
+    {
+      "name": "Ponil",
+      "type": "staff_camp",
+      "lat": 36.62253573,
+      "lon": -105.0369405,
+      "elevation": 7150
+    },
+    {
+      "name": "Pueblano",
+      "type": "staff_camp",
+      "lat": 36.62494727,
+      "lon": -105.1147731,
+      "elevation": 8069
+    },
+    {
+      "name": "Rayado",
+      "type": "staff_camp",
+      "lat": 36.36672447,
+      "lon": -104.9312328,
+      "elevation": 6518
+    },
+    {
+      "name": "Rich Cabins",
+      "type": "staff_camp",
+      "lat": 36.66990434,
+      "lon": -105.1153322,
+      "elevation": 7728
+    },
+    {
+      "name": "Ring Place",
+      "type": "staff_camp",
+      "lat": 36.77218963,
+      "lon": -105.1215587,
+      "elevation": 8124
+    },
+    {
+      "name": "Sawmill",
+      "type": "staff_camp",
+      "lat": 36.51561802,
+      "lon": -105.1087927,
+      "elevation": 9193
+    },
+    {
+      "name": "Seally Canyon",
+      "type": "staff_camp",
+      "lat": 36.75248462,
+      "lon": -105.1008585,
+      "elevation": 8037
+    },
+    {
+      "name": "Urraca",
+      "type": "staff_camp",
+      "lat": 36.40899886,
+      "lon": -104.9905086,
+      "elevation": 7968
+    },
+    {
+      "name": "Ute Gulch",
+      "type": "staff_camp",
+      "lat": 36.51658125,
+      "lon": -105.0597189,
+      "elevation": 7866
+    },
+    {
+      "name": "Whiteman Vega",
+      "type": "staff_camp",
+      "lat": 36.79386969,
+      "lon": -105.1028967,
+      "elevation": 8061
+    },
+    {
+      "name": "Zastrow",
+      "type": "staff_camp",
+      "lat": 36.3778331,
+      "lon": -104.9957858,
+      "elevation": 6946
+    },
+    {
+      "name": "Agua Fria",
+      "type": "trail_camp",
+      "lat": 36.38436872,
+      "lon": -105.1233718,
+      "elevation": 8726
+    },
+    {
+      "name": "Aguila",
+      "type": "trail_camp",
+      "lat": 36.39966599,
+      "lon": -105.0238428,
+      "elevation": 8282
+    },
+    {
+      "name": "Anasazi",
+      "type": "trail_camp",
+      "lat": 36.6060424,
+      "lon": -104.9805888,
+      "elevation": 6911
+    },
+    {
+      "name": "Aspen Springs",
+      "type": "trail_camp",
+      "lat": 36.50392358,
+      "lon": -105.060435,
+      "elevation": 7912
+    },
+    {
+      "name": "Backache Springs",
+      "type": "trail_camp",
+      "lat": 36.3931481,
+      "lon": -104.9771739,
+      "elevation": 7688
+    },
+    {
+      "name": "Baldy Skyline Camp",
+      "type": "trail_camp",
+      "lat": 36.61368244,
+      "lon": -105.1443345,
+      "elevation": 9050
+    },
+    {
+      "name": "Bear Canyon",
+      "type": "trail_camp",
+      "lat": 36.39860022,
+      "lon": -105.1351482,
+      "elevation": 9288
+    },
+    {
+      "name": "Bear Caves",
+      "type": "trail_camp",
+      "lat": 36.40485644,
+      "lon": -105.0337256,
+      "elevation": 8423
+    },
+    {
+      "name": "Bent",
+      "type": "trail_camp",
+      "lat": 36.63604567,
+      "lon": -105.0659967,
+      "elevation": 7319
+    },
+    {
+      "name": "Black Horse",
+      "type": "trail_camp",
+      "lat": 36.61053694,
+      "lon": -105.1889344,
+      "elevation": 9619
+    },
+    {
+      "name": "Black Jacks",
+      "type": "trail_camp",
+      "lat": 36.57082352,
+      "lon": -105.0427277,
+      "elevation": 8211
+    },
+    {
+      "name": "Buck Creek",
+      "type": "trail_camp",
+      "lat": 36.41129892,
+      "lon": -105.1305415,
+      "elevation": 9131
+    },
+    {
+      "name": "Campos Heck",
+      "type": "trail_camp",
+      "lat": 36.57264906,
+      "lon": -104.9725723,
+      "elevation": 7081
+    },
+    {
+      "name": "Cathedral Rock",
+      "type": "trail_camp",
+      "lat": 36.48624105,
+      "lon": -105.0489109,
+      "elevation": 7550
+    },
+    {
+      "name": "Chase Canyon",
+      "type": "trail_camp",
+      "lat": 36.62493248,
+      "lon": -104.9592557,
+      "elevation": 7192
+    },
+    {
+      "name": "Cimarron River",
+      "type": "trail_camp",
+      "lat": 36.56380764,
+      "lon": -105.0669746,
+      "elevation": 7282
+    },
+    {
+      "name": "Comanche Camp",
+      "type": "trail_camp",
+      "lat": 36.44150777,
+      "lon": -105.1543807,
+      "elevation": 9641
+    },
+    {
+      "name": "Comanche Peak",
+      "type": "trail_camp",
+      "lat": 36.48034706,
+      "lon": -105.1383377,
+      "elevation": 11070
+    },
+    {
+      "name": "Cook Canyon",
+      "type": "trail_camp",
+      "lat": 36.67173643,
+      "lon": -105.0649753,
+      "elevation": 7731
+    },
+    {
+      "name": "Copper Park",
+      "type": "trail_camp",
+      "lat": 36.64130092,
+      "lon": -105.2024447,
+      "elevation": 10530
+    },
+    {
+      "name": "Cottonwood",
+      "type": "trail_camp",
+      "lat": 36.65754661,
+      "lon": -104.9988252,
+      "elevation": 7373
+    },
+    {
+      "name": "Crags",
+      "type": "trail_camp",
+      "lat": 36.36676362,
+      "lon": -105.0631602,
+      "elevation": 8058
+    },
+    {
+      "name": "Dean Cuttoff",
+      "type": "trail_camp",
+      "lat": 36.61592224,
+      "lon": -105.0517101,
+      "elevation": 7299
+    },
+    {
+      "name": "Dean Heck",
+      "type": "trail_camp",
+      "lat": 36.54413628,
+      "lon": -104.9506952,
+      "elevation": 6758
+    },
+    {
+      "name": "Deer Lake",
+      "type": "trail_camp",
+      "lat": 36.5083355,
+      "lon": -105.0258527,
+      "elevation": 8280
+    },
+    {
+      "name": "Deer Lake Mesa",
+      "type": "trail_camp",
+      "lat": 36.53065794,
+      "lon": -105.0510166,
+      "elevation": 8324
+    },
+    {
+      "name": "Devil's Wash Basin",
+      "type": "trail_camp",
+      "lat": 36.5258864,
+      "lon": -105.0566096,
+      "elevation": 8515
+    },
+    {
+      "name": "Elkhorn",
+      "type": "trail_camp",
+      "lat": 36.61235143,
+      "lon": -105.0847184,
+      "elevation": 8496
+    },
+    {
+      "name": "Ewells Park",
+      "type": "trail_camp",
+      "lat": 36.62393219,
+      "lon": -105.1717547,
+      "elevation": 9373
+    },
+    {
+      "name": "Flume Canyon",
+      "type": "trail_camp",
+      "lat": 36.62503361,
+      "lon": -105.0873941,
+      "elevation": 7715
+    },
+    {
+      "name": "Greenwood",
+      "type": "trail_camp",
+      "lat": 36.6967584,
+      "lon": -105.1814992,
+      "elevation": 8445
+    },
+    {
+      "name": "Hawkeye Camp",
+      "type": "trail_camp",
+      "lat": 36.5619371,
+      "lon": -105.0582116,
+      "elevation": 7586
+    },
+    {
+      "name": "Hells Fire Canyon",
+      "type": "trail_camp",
+      "lat": 36.59296201,
+      "lon": -104.9323854,
+      "elevation": 6837
+    },
+    {
+      "name": "Horse Canyon Camp",
+      "type": "trail_camp",
+      "lat": 36.65872129,
+      "lon": -105.0603656,
+      "elevation": 8127
+    },
+    {
+      "name": "House Canyon",
+      "type": "trail_camp",
+      "lat": 36.60584102,
+      "lon": -104.966802,
+      "elevation": 7157
+    },
+    {
+      "name": "Iris Park",
+      "type": "trail_camp",
+      "lat": 36.72727456,
+      "lon": -105.1553988,
+      "elevation": 8571
+    },
+    {
+      "name": "Lamberts Mine",
+      "type": "trail_camp",
+      "lat": 36.47854762,
+      "lon": -105.1087297,
+      "elevation": 8957
+    },
+    {
+      "name": "Lookout Meadow",
+      "type": "trail_camp",
+      "lat": 36.38271707,
+      "lon": -105.0699296,
+      "elevation": 9419
+    },
+    {
+      "name": "Lost Cabin",
+      "type": "trail_camp",
+      "lat": 36.38347182,
+      "lon": -105.1357241,
+      "elevation": 9205
+    },
+    {
+      "name": "Lost Gap",
+      "type": "trail_camp",
+      "lat": 36.50961253,
+      "lon": -105.0375792,
+      "elevation": 8413
+    },
+    {
+      "name": "Lovers Leap",
+      "type": "trail_camp",
+      "lat": 36.4199877,
+      "lon": -105.0170223,
+      "elevation": 7469
+    },
+    {
+      "name": "Lower Bonito",
+      "type": "trail_camp",
+      "lat": 36.39280429,
+      "lon": -105.0715556,
+      "elevation": 8962
+    },
+    {
+      "name": "Lower Sawmill",
+      "type": "trail_camp",
+      "lat": 36.51998835,
+      "lon": -105.0765869,
+      "elevation": 8308
+    },
+    {
+      "name": "Martinez Springs",
+      "type": "trail_camp",
+      "lat": 36.53544178,
+      "lon": -105.0348547,
+      "elevation": 7494
+    },
+    {
+      "name": "Maxwell",
+      "type": "trail_camp",
+      "lat": 36.60398838,
+      "lon": -105.1538764,
+      "elevation": 8498
+    },
+    {
+      "name": "McBride Canyon",
+      "type": "trail_camp",
+      "lat": 36.59918341,
+      "lon": -104.9944209,
+      "elevation": 7105
+    },
+    {
+      "name": "Minette Meadows Camp",
+      "type": "trail_camp",
+      "lat": 36.54061728,
+      "lon": -105.0864387,
+      "elevation": 7841
+    },
+    {
+      "name": "Mount Phillips",
+      "type": "trail_camp",
+      "lat": 36.47625951,
+      "lon": -105.1559343,
+      "elevation": 11650
+    },
+    {
+      "name": "New Dean",
+      "type": "trail_camp",
+      "lat": 36.59307982,
+      "lon": -105.0477037,
+      "elevation": 7724
+    },
+    {
+      "name": "North Fork Urraca",
+      "type": "trail_camp",
+      "lat": 36.43620903,
+      "lon": -105.0420847,
+      "elevation": 7961
+    },
+    {
+      "name": "Old Abreu",
+      "type": "trail_camp",
+      "lat": 36.3770279,
+      "lon": -105.0263555,
+      "elevation": 7375
+    },
+    {
+      "name": "Olympia",
+      "type": "trail_camp",
+      "lat": 36.37175277,
+      "lon": -104.9689196,
+      "elevation": 6731
+    },
+    {
+      "name": "Pinyon Flats",
+      "type": "trail_camp",
+      "lat": 36.36427324,
+      "lon": -104.9862225,
+      "elevation": 6924
+    },
+    {
+      "name": "Ponderosa Park",
+      "type": "trail_camp",
+      "lat": 36.45994456,
+      "lon": -105.0465729,
+      "elevation": 8004
+    },
+    {
+      "name": "Porcupine",
+      "type": "trail_camp",
+      "lat": 36.42305556,
+      "lon": -105.1299253,
+      "elevation": 9152
+    },
+    {
+      "name": "Pueblano Ruins",
+      "type": "trail_camp",
+      "lat": 36.62871017,
+      "lon": -105.1369246,
+      "elevation": 8359
+    },
+    {
+      "name": "Rayado River",
+      "type": "trail_camp",
+      "lat": 36.37639045,
+      "lon": -105.0079601,
+      "elevation": 7079
+    },
+    {
+      "name": "Red Hills",
+      "type": "trail_camp",
+      "lat": 36.4659661,
+      "lon": -105.1397854,
+      "elevation": 10280
+    },
+    {
+      "name": "Rimrock Park",
+      "type": "trail_camp",
+      "lat": 36.37574022,
+      "lon": -105.0182167,
+      "elevation": 7359
+    },
+    {
+      "name": "Santa Claus",
+      "type": "trail_camp",
+      "lat": 36.59154001,
+      "lon": -105.0911238,
+      "elevation": 8438
+    },
+    {
+      "name": "Shaefers Pass",
+      "type": "trail_camp",
+      "lat": 36.44884727,
+      "lon": -105.0453054,
+      "elevation": 8724
+    },
+    {
+      "name": "Shuree Ponds",
+      "type": "trail_camp",
+      "lat": 36.76015295,
+      "lon": -105.1970762,
+      "elevation": 9119
+    },
+    {
+      "name": "Sioux",
+      "type": "trail_camp",
+      "lat": 36.6245477,
+      "lon": -105.05591,
+      "elevation": 7382
+    },
+    {
+      "name": "Slate Hill Heck",
+      "type": "trail_camp",
+      "lat": 36.53349657,
+      "lon": -104.9730888,
+      "elevation": 7722
+    },
+    {
+      "name": "Stockade Ridge",
+      "type": "trail_camp",
+      "lat": 36.43760455,
+      "lon": -105.0078548,
+      "elevation": 7519
+    },
+    {
+      "name": "Thunder Ridge",
+      "type": "trail_camp",
+      "lat": 36.48745867,
+      "lon": -105.1315958,
+      "elevation": 10310
+    },
+    {
+      "name": "Tooth Ridge Camp",
+      "type": "trail_camp",
+      "lat": 36.44980246,
+      "lon": -104.9984043,
+      "elevation": 8300
+    },
+    {
+      "name": "Toothache Springs",
+      "type": "trail_camp",
+      "lat": 36.39910011,
+      "lon": -104.9916361,
+      "elevation": 7870
+    },
+    {
+      "name": "Trail Canyon Camp",
+      "type": "trail_camp",
+      "lat": 36.59427003,
+      "lon": -105.0086532,
+      "elevation": 7073
+    },
+    {
+      "name": "Turkey Creek",
+      "type": "trail_camp",
+      "lat": 36.56467197,
+      "lon": -105.0212671,
+      "elevation": 7569
+    },
+    {
+      "name": "Upper Bench",
+      "type": "trail_camp",
+      "lat": 36.5409772,
+      "lon": -105.0577378,
+      "elevation": 8161
+    },
+    {
+      "name": "Upper Clarks Fork",
+      "type": "trail_camp",
+      "lat": 36.45977218,
+      "lon": -105.049296,
+      "elevation": 7902
+    },
+    {
+      "name": "Upper Dean Cow",
+      "type": "trail_camp",
+      "lat": 36.60253091,
+      "lon": -105.0890459,
+      "elevation": 8254
+    },
+    {
+      "name": "Upper Sawmill",
+      "type": "trail_camp",
+      "lat": 36.51963578,
+      "lon": -105.0908384,
+      "elevation": 8611
+    },
+    {
+      "name": "Ute Meadows",
+      "type": "trail_camp",
+      "lat": 36.61917792,
+      "lon": -105.180143,
+      "elevation": 9164
+    },
+    {
+      "name": "Ute Springs",
+      "type": "trail_camp",
+      "lat": 36.50635182,
+      "lon": -105.0538594,
+      "elevation": 7689
+    },
+    {
+      "name": "Vaca",
+      "type": "trail_camp",
+      "lat": 36.51662286,
+      "lon": -105.0095157,
+      "elevation": 7415
+    },
+    {
+      "name": "Visto Grande",
+      "type": "trail_camp",
+      "lat": 36.55641511,
+      "lon": -105.0672364,
+      "elevation": 7782
+    },
+    {
+      "name": "Webster Lake",
+      "type": "trail_camp",
+      "lat": 36.48194837,
+      "lon": -105.0241694,
+      "elevation": 7122
+    },
+    {
+      "name": "Webster Parks",
+      "type": "trail_camp",
+      "lat": 36.50148773,
+      "lon": -105.0788802,
+      "elevation": 8750
+    },
+    {
+      "name": "Whistle Punk Camp",
+      "type": "trail_camp",
+      "lat": 36.50015948,
+      "lon": -105.1157388,
+      "elevation": 9935
+    },
+    {
+      "name": "Wild Horse",
+      "type": "trail_camp",
+      "lat": 36.44087297,
+      "lon": -105.1765835,
+      "elevation": 10420
+    },
+    {
+      "name": "Bear Canyon Turnaround",
+      "type": "turnaround",
+      "lat": 36.56570723,
+      "lon": -105.0543588,
+      "elevation": 7250
+    },
+    {
+      "name": "Chase Turnaround",
+      "type": "turnaround",
+      "lat": 36.55296451,
+      "lon": -104.9215704,
+      "elevation": 6557
+    },
+    {
+      "name": "Cito Turnaround",
+      "type": "turnaround",
+      "lat": 36.48236262,
+      "lon": -105.0263018,
+      "elevation": 7144
+    },
+    {
+      "name": "Express Turnaround",
+      "type": "turnaround",
+      "lat": 36.59180753,
+      "lon": -105.1326559,
+      "elevation": 8024
+    },
+    {
+      "name": "Heck Place Turnaround",
+      "type": "turnaround",
+      "lat": 36.51281017,
+      "lon": -104.935035,
+      "elevation": 6494
+    },
+    {
+      "name": "Lovers Leap Turnaround",
+      "type": "turnaround",
+      "lat": 36.43504428,
+      "lon": -104.9932947,
+      "elevation": 7110
+    },
+    {
+      "name": "Nine Mile Turnaround",
+      "type": "turnaround",
+      "lat": 36.59863321,
+      "lon": -105.0099395,
+      "elevation": 6962
+    },
+    {
+      "name": "Ponil Turnaround",
+      "type": "turnaround",
+      "lat": 36.61340603,
+      "lon": -105.0276882,
+      "elevation": 7053
+    },
+    {
+      "name": "Rayado Turnaround",
+      "type": "turnaround",
+      "lat": 36.36504717,
+      "lon": -104.9304875,
+      "elevation": 6510
+    },
+    {
+      "name": "Six Mile Turnaround",
+      "type": "turnaround",
+      "lat": 36.58741344,
+      "lon": -104.963937,
+      "elevation": 6733
+    },
+    {
+      "name": "Turkey Creek Turnaround",
+      "type": "turnaround",
+      "lat": 36.52129157,
+      "lon": -104.9809228,
+      "elevation": 6637
+    },
+    {
+      "name": "Urraca Turnaround",
+      "type": "turnaround",
+      "lat": 36.42080202,
+      "lon": -104.9582805,
+      "elevation": 6944
+    },
+    {
+      "name": "Ute Park Turnaround",
+      "type": "turnaround",
+      "lat": 36.56073684,
+      "lon": -105.0893667,
+      "elevation": 7337
+    },
+    {
+      "name": "Zastrow Turnaround",
+      "type": "turnaround",
+      "lat": 36.38133037,
+      "lon": -104.9864759,
+      "elevation": 6927
+    },
+    {
+      "name": "Agua Fria Peak",
+      "type": "peak",
+      "lat": 36.35999294,
+      "lon": -105.2068744,
+      "elevation": 11078
+    },
+    {
+      "name": "Apache Peak",
+      "type": "peak",
+      "lat": 36.38190387,
+      "lon": -105.1501821,
+      "elevation": 9858
+    },
+    {
+      "name": "Baldy Mountain",
+      "type": "peak",
+      "lat": 36.62975188,
+      "lon": -105.2132751,
+      "elevation": 12441
+    },
+    {
+      "name": "Bear Mountain",
+      "type": "peak",
+      "lat": 36.46454114,
+      "lon": -105.0944014,
+      "elevation": 10662
+    },
+    {
+      "name": "Big Red",
+      "type": "peak",
+      "lat": 36.46415446,
+      "lon": -105.1314783,
+      "elevation": 11020
+    },
+    {
+      "name": "Black Mountain",
+      "type": "peak",
+      "lat": 36.44957588,
+      "lon": -105.0821307,
+      "elevation": 10889
+    },
+    {
+      "name": "Bonito Peak",
+      "type": "peak",
+      "lat": 36.44414685,
+      "lon": -105.1168049,
+      "elevation": 10610
+    },
+    {
+      "name": "Burn Peak",
+      "type": "peak",
+      "lat": 36.39990185,
+      "lon": -105.0939886,
+      "elevation": 9938
+    },
+    {
+      "name": "Cimarroncito Peak",
+      "type": "peak",
+      "lat": 36.49993896,
+      "lon": -105.1004183,
+      "elevation": 10475
+    },
+    {
+      "name": "Commanche Peak",
+      "type": "peak",
+      "lat": 36.47943939,
+      "lon": -105.1435493,
+      "elevation": 11303
+    },
+    {
+      "name": "Crater Peak",
+      "type": "peak",
+      "lat": 36.37428726,
+      "lon": -105.0706802,
+      "elevation": 9680
+    },
+    {
+      "name": "Garcia Peak",
+      "type": "peak",
+      "lat": 36.44484543,
+      "lon": -105.1847046,
+      "elevation": 10871
+    },
+    {
+      "name": "Grizzly Tooth",
+      "type": "peak",
+      "lat": 36.44004584,
+      "lon": -105.0515262,
+      "elevation": 8983
+    },
+    {
+      "name": "Hart Peak",
+      "type": "peak",
+      "lat": 36.62793002,
+      "lon": -105.0239465,
+      "elevation": 7975
+    },
+    {
+      "name": "Little Costilla Peak",
+      "type": "peak",
+      "lat": 36.8309325,
+      "lon": -105.2247772,
+      "elevation": 12584
+    },
+    {
+      "name": "Lookout Peak",
+      "type": "peak",
+      "lat": 36.38824227,
+      "lon": -105.0856453,
+      "elevation": 9927
+    },
+    {
+      "name": "Mount Phillips",
+      "type": "peak",
+      "lat": 36.47652508,
+      "lon": -105.1596297,
+      "elevation": 11736
+    },
+    {
+      "name": "Rayado Peak",
+      "type": "peak",
+      "lat": 36.37866647,
+      "lon": -105.0581416,
+      "elevation": 9790
+    },
+    {
+      "name": "Shaffers Peak",
+      "type": "peak",
+      "lat": 36.45041865,
+      "lon": -105.037439,
+      "elevation": 9413
+    },
+    {
+      "name": "Slate Hill",
+      "type": "peak",
+      "lat": 36.5277203,
+      "lon": -104.952113,
+      "elevation": 7656
+    },
+    {
+      "name": "Tolby Peak",
+      "type": "peak",
+      "lat": 36.48926894,
+      "lon": -105.1750743,
+      "elevation": 11539
+    },
+    {
+      "name": "Tooth of Time",
+      "type": "peak",
+      "lat": 36.44786391,
+      "lon": -105.0080901,
+      "elevation": 9003
+    },
+    {
+      "name": "Touch Me Not",
+      "type": "peak",
+      "lat": 36.58061713,
+      "lon": -105.1993463,
+      "elevation": 12050
+    },
+    {
+      "name": "Trail Peak",
+      "type": "peak",
+      "lat": 36.40742963,
+      "lon": -105.0673197,
+      "elevation": 10250
+    },
+    {
+      "name": "Clayton Cabin",
+      "type": "other",
+      "lat": 36.784173,
+      "lon": -105.2342453,
+      "elevation": 9941
+    },
+    {
+      "name": "Clayton Cabin",
+      "type": "other",
+      "lat": 36.75609335,
+      "lon": -105.2678033,
+      "elevation": 9368
+    },
+    {
+      "name": "COPE Course",
+      "type": "other",
+      "lat": 36.4344761,
+      "lon": -104.9901708,
+      "elevation": 7060
+    },
+    {
+      "name": "Shuree Cabin",
+      "type": "other",
+      "lat": 36.78021835,
+      "lon": -105.218555,
+      "elevation": 9647
+    },
+    {
+      "name": "Shuree Lodge",
+      "type": "other",
+      "lat": 36.77093934,
+      "lon": -105.1942016,
+      "elevation": 9277
+    },
+    {
+      "name": "Stockade",
+      "type": "other",
+      "lat": 36.43569356,
+      "lon": -104.9998326,
+      "elevation": 7254
+    },
+    {
+      "name": "Ute Park Pass",
+      "type": "other",
+      "lat": 36.52596978,
+      "lon": -105.0694328,
+      "elevation": 8258
+    }
   ]
 }

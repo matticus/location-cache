@@ -1,9 +1,18 @@
 {
   "startDate": "2026-05-13",
-  "crewName": "713-J",
+  "crewName": "725-E",
   "stops": [
-    { "name": "Urraca Turnaround", "lat": 36.4208, "lon": -104.9582, "elevation": 6944, "type": "waypoint", "day": 1 },
-    { "name": "Crater Lake", "lat": 36.4055, "lon": -105.0489, "elevation": 8398, "type": "waypoint", "day": 2 },
-    { "name": "Beaubien", "lat": 36.4236, "lon": -105.1033, "elevation": 9330, "type": "waypoint", "day": 2 }
+    { "name": "Camping HQ (Trailbound)", "lat": 36.45288428, "lon": -104.9600057, "elevation": 6696, "type": "Staff Camp", "day": 1 },
+    { "name": "House Canyon", "lat": 36.60584102, "lon": -104.966802, "elevation": 7157, "type": "Trail Camp", "day": 2 },
+    { "name": "Cottonwood", "lat": 36.65754661, "lon": -104.9988252, "elevation": 7373, "type": "Trail Camp", "day": 3 },
+    { "name": "Metcalf Station", "lat": 36.66124882, "lon": -105.0264632, "elevation": 7220, "type": "Staff Camp", "day": 4 },
+    { "name": "Ponil", "lat": 36.62253573, "lon": -105.0369405, "elevation": 7150, "type": "Staff Camp", "day": 5 },
+    { "name": "Head of Dean", "lat": 36.61022061, "lon": -105.1200069, "elevation": 8754, "type": "Staff Camp", "day": 6 },
+    { "name": "Touch-Me-Not Creek", "lat": 36.60313726, "lon": -105.1684287, "elevation": 8855, "type": "Staff Camp", "day": 7 },
+    { "name": "Baldy Town", "lat": 36.62648968, "lon": -105.1913221, "elevation": 9851, "type": "Staff Camp", "day": 8 },
+    { "name": "Baldy Town", "lat": 36.62648968, "lon": -105.1913221, "elevation": 9851, "type": "Staff Camp", "day": 9 },
+    { "name": "Pueblano Ruins", "lat": 36.62871017, "lon": -105.1369246, "elevation": 8359, "type": "Trail Camp", "day": 10 },
+    { "name": "Sioux", "lat": 36.6245477, "lon": -105.05591, "elevation": 7382, "type": "Trail Camp", "day": 11 },
+    { "name": "Camping HQ (Homebound)", "lat": 36.45199797, "lon": -104.9584643, "elevation": 6696, "type": "Staff Camp", "day": 12 }
   ]
 }
